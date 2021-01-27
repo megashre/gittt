@@ -1,6 +1,6 @@
 rabbit and the tortoise race
 race starts 
-rabbit looses
-tortoise wins
+tortoise looses
+rabbit  wins
 
-The moral " slow and steady wins the race"
+The moral " Be fast and  win the race"
